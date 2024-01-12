@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Dhruvil</title>
   <subtitle>A blog where I discuss about my achievments , profession and research</subtitle>
-  <updated>2024-01-12T13:55:14+08:00</updated>
+  <updated>2024-01-12T16:21:52+08:00</updated>
   <author>
     <name>Dhruvil Malvania</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,48 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>My Learning Journey</title>
+    <link href="http://localhost:4000/posts/My-Learning-Journey/" rel="alternate" type="text/html" title="My Learning Journey" />
+    <published>2024-01-12T13:15:00+08:00</published>
+  
+    <updated>2024-01-12T13:15:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/My-Learning-Journey/</id>
+    <content src="http://localhost:4000/posts/My-Learning-Journey/" />
+    <author>
+      <name>Dhruvil Malvania</name>
+    </author>
+
+  
+    
+    <category term="My_Learning_Journey" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      As a lifelong learner, I am constantly expanding my knowledge in areas such as:
+
+Programming Languages: Proficient in the languages; Python and R.
+
+Data Manipulation: Skilled in cleaning, transforming, and visualizing data using tools like Numpy , Pandas , Matplotlib and Seaborn.
+
+Machine Learning: Exploring the world of algorithms, predictive modeling, and classification.
+
+Data Analysis: Apply...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
