@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Dhruvil</title>
   <subtitle>A blog where I discuss about my achievments , profession and research</subtitle>
-  <updated>2024-01-12T16:36:40+08:00</updated>
+  <updated>2024-04-13T23:53:42+08:00</updated>
   <author>
     <name>Dhruvil Malvania</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,47 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Learning R Programming</title>
+    <link href="http://localhost:4000/posts/Learning-R-Programming/" rel="alternate" type="text/html" title="Learning R Programming" />
+    <published>2024-04-12T11:14:00+08:00</published>
+  
+    <updated>2024-04-12T11:14:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/Learning-R-Programming/</id>
+    <content src="http://localhost:4000/posts/Learning-R-Programming/" />
+    <author>
+      <name>Dhruvil Malvania</name>
+    </author>
+
+  
+    
+    <category term="Learning R Programming" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Introduction to R Programming
+
+
+
+
+
+
+R is a powerful programming language and environment primarily used for statistical computing and graphics. It was developed by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand, in the early 1990s. Since then, it has gained widespread popularity in both academia and industry due to its robust statistical capabilities and its vibrant ...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
