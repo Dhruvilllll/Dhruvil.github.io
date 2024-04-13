@@ -10,7 +10,7 @@ pin: true
 ## Introduction to R Programming
 <p align="left">
 <a href="https://www.r-project.org/">
-<img src="/Rlogo.png" width="100" height="78" alt="R">
+<img src="https://www.r-project.org/Rlogo.png" width="100" height="78" alt="R">
 </a>
 </p>
 
@@ -26,7 +26,7 @@ R is a powerful programming language and environment primarily used for statisti
 
 **Open-Source and Extensible:** R is an open-source language, meaning that its source code is freely available for anyone to use, modify, and distribute. Additionally, R's extensibility allows users to create and share their own packages to extend its functionality.
 
-**Integration*:**R can easily interface with other programming languages like C, C++, and Python, allowing users to leverage code written in other languages within their R workflows. It also supports integration with databases, spreadsheets, and other data sources.
+**Integration:**R can easily interface with other programming languages like C, C++, and Python, allowing users to leverage code written in other languages within their R workflows. It also supports integration with databases, spreadsheets, and other data sources.
 
 **Community Support:** R has a large and active community of users and developers who contribute to its development, share code and packages, and provide support through forums, mailing lists, and online resources.
 
