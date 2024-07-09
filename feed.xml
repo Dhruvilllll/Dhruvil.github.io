@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Dhruvil</title>
   <subtitle>A blog where I discuss about my achievments , profession and research</subtitle>
-  <updated>2024-06-04T15:48:56+08:00</updated>
+  <updated>2024-07-09T21:58:49+08:00</updated>
   <author>
     <name>Dhruvil Malvania</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,48 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>My Projects</title>
+    <link href="http://localhost:4000/posts/My-Projects/" rel="alternate" type="text/html" title="My Projects" />
+    <published>2024-07-09T19:21:07+08:00</published>
+  
+    <updated>2024-07-09T19:21:07+08:00</updated>
+  
+    <id>http://localhost:4000/posts/My-Projects/</id>
+    <content src="http://localhost:4000/posts/My-Projects/" />
+    <author>
+      <name>Dhruvil Malvania</name>
+    </author>
+
+  
+    
+    <category term="My_Projects" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Flight Price Prediction
+
+
+  This project aims to build a machine learning model to predict flight prices based on various features such as departure and arrival locations, travel dates, airlines, and more. The model can assist users in finding the best flight deals and making informed decisions about their travel plans.
+
+
+
+
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>

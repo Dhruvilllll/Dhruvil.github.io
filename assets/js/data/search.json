@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "My Projects",
+    "url": "/posts/My-Projects/",
+    "categories": "My_Projects",
+    "tags": "My_Projects",
+    "date": "2024-07-09 19:21:07 +0800",
+    
+
+
+
+
+
+    
+    "snippet": "Flight Price Prediction  This project aims to build a machine learning model to predict flight prices based on various features such as departure and arrival locations, travel dates, airlines, and ...",
+    "content": "Flight Price Prediction  This project aims to build a machine learning model to predict flight prices based on various features such as departure and arrival locations, travel dates, airlines, and more. The model can assist users in finding the best flight deals and making informed decisions about their travel plans."
+  },
+  
+  {
     "title": "Learning R Programming",
     "url": "/posts/Learning-R-Programming/",
     "categories": "Learning R Programming",
