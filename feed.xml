@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Dhruvil</title>
   <subtitle>A blog where I discuss about my achievments , profession and research</subtitle>
-  <updated>2024-07-09T21:58:49+08:00</updated>
+  <updated>2024-07-14T17:16:02+08:00</updated>
   <author>
     <name>Dhruvil Malvania</name>
     <uri>http://localhost:4000/</uri>
@@ -149,7 +149,7 @@ Data Analysis: Apply...
     <link href="http://localhost:4000/posts/Introduction/" rel="alternate" type="text/html" title="Introduction" />
     <published>2024-01-12T11:14:00+08:00</published>
   
-    <updated>2024-01-12T11:14:00+08:00</updated>
+    <updated>2024-07-09T22:01:13+08:00</updated>
   
     <id>http://localhost:4000/posts/Introduction/</id>
     <content src="http://localhost:4000/posts/Introduction/" />
